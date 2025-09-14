@@ -23,7 +23,7 @@ Welcome to the most **pointless Arduino project** you'll ever see. Seriously. Pi
 
 ## Usage
 
-1. Plug in your Uno clone.  
+1. Plug in your Uno.  
 2. Open Arduino IDE.  
 3. Open `useless_led_chaos.ino`.  
 4. Select **Board → Arduino Uno**.  
