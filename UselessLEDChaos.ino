@@ -68,7 +68,7 @@ void loop() {
       // if we just turned it off, pick a new random LED + new chaos timing
       currentLED = random(0, numLEDs);
       interval = random(50, 500);
-      Serial.println("Still useless, but async 😎");
+      Serial.println("I am useless ;)");
     }
   }
 }
